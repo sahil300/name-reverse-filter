@@ -1,0 +1,5 @@
+name: Name Alter
+description: 'Provides a filter to replace any instance of the "[name:FIRSTNAME:LASTNAME]"" token to "Name:LASTNAME FIRSTNAME".'
+type: module
+package: Custom
+core: 8.x
